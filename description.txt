@@ -1,0 +1,1 @@
+This simple mod makes it so the painting sells every painting in Vanilla.
